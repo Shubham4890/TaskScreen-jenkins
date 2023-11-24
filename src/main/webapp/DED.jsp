@@ -46,18 +46,7 @@
 					</div>
 				</c:if>
 
-				<%-- 	<c:if test="${not empty promisException}">
-					<div class="alert alert-danger has-error" role="alert">
-						<span class="glyphicon glyphicon-exclamation-sign"
-							aria-hidden="true"></span> ${promisException}
-					</div>
-				</c:if> --%>
-				<%-- 				<c:if test="${not empty success}">
-					<div class="alert alert-success" role="alert">
-						<span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-						${success}
-					</div>
-				</c:if> --%>
+		<h3>Hello check the git hub  access</h3>
 				<div class="alert alert-danger has-error" id="alertError"
 					role="alert" style="display: none;">
 					<span class="glyphicon glyphicon-exclamation-sign"
