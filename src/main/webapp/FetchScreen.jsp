@@ -35,7 +35,7 @@
 				<div class="panel-heading page-header-heading">
 
 					<h2 class="text-danger">
-						<b>DED Container Scoring Parameter</b>
+						<b>DED Container Scoring Parameter testing</b>
 					</h2>
 					<div class="text-right" style="margin-top: 30px;">
 						<button id="searchButton" class="btn" type="button"
