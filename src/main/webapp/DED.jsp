@@ -46,7 +46,6 @@
 					</div>
 				</c:if>
 
-		<h3>Hello check the git hub  access</h3>
 				<div class="alert alert-danger has-error" id="alertError"
 					role="alert" style="display: none;">
 					<span class="glyphicon glyphicon-exclamation-sign"
