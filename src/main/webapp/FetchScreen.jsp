@@ -35,8 +35,8 @@
 				<div class="panel-heading page-header-heading">
 
 					<h2 class="text-danger">
-						<b>DED Container Scoring Parameter testing</b>
-												<b>Web Hook Testing</b>
+						<b>DED Container Scoring Parameter</b>
+						<b>Web Hook Testing again</b>
 						
 					</h2>
 					<div class="text-right" style="margin-top: 30px;">
