@@ -36,8 +36,6 @@
 
 					<h2 class="text-danger">
 						<b>DED Container Scoring Parameter</b>
-						<b>Web Hook Testing again</b>
-						
 					</h2>
 					<div class="text-right" style="margin-top: 30px;">
 						<button id="searchButton" class="btn" type="button"
